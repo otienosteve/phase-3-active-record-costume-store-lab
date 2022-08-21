@@ -18,7 +18,7 @@ gem "sqlite3", "~> 1.4"
 
 # Require all files in a folder
 # https://github.com/jarmo/require_all
-gem "require_all"
+gem "require_all", "3.0.0"
 
 # These gems will only be used when we are running the application locally
 group :development do
